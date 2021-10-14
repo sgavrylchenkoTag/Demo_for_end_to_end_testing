@@ -1,0 +1,13 @@
+{
+  "viewportWidth": 1000,
+  "viewportHeight": 800,
+  "video": false,
+  "screenshotOnRunFailure": true,
+  "numTestsKeptInMemory": 1,
+  "fixturesFolder": "tests/fixtures",
+  "integrationFolder": "tests/integration",
+  "pluginsFile": "tests/plugins/index.js",
+  "screenshotsFolder": "tests/screenshots",
+  "supportFile": "tests/support",
+  "videosFolder": "tests/videos"
+}

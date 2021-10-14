@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.idea
+dist
+mockServer/node_modules
+mockServer/package-lock.json
+.vscode
